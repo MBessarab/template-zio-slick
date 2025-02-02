@@ -8,7 +8,7 @@ object Dependencies {
     kafka.all ++
     tapir.all ++
     circe.all ++
-    derevo.all ++
+//    derevo.all ++
     java.all ++
     netty.all ++
     slick.all ++
